@@ -2,7 +2,7 @@
   "name": "Pomodoro Timer & Tasks",
   "short_name": "Pomodoro",
   "description": "A simple Pomodoro timer with task management to boost your productivity.",
-  "start_url": "pomodoro_app.html", 
+  "start_url": "pomodoro_app.html",
   "display": "standalone",
   "background_color": "#f0f2f5",
   "theme_color": "#2563eb",
